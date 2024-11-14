@@ -34,7 +34,7 @@ Welcome to my GitHub profile, where I showcase my projects and contributions acr
 
 <div align="center">
   
-![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhiD26)
+![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=NidhiD26&theme=dark)
 
 </div>
 
