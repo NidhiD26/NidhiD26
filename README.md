@@ -19,6 +19,8 @@ Welcome to my GitHub profile, where I showcase my projects and contributions acr
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Vercel-F05032?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-181717?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
   <img src="https://img.shields.io/badge/Marketing-FF7F50?style=for-the-badge" alt="Marketing">
   <img src="https://img.shields.io/badge/Content Writing-FF6F61?style=for-the-badge" alt="Content Writing">
   <img src="https://img.shields.io/badge/Public Speaking-FFAA1D?style=for-the-badge" alt="Public Speaking">
