@@ -27,7 +27,7 @@ Welcome to my GitHub profile, where I showcase my projects and contributions acr
   <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge" alt="Communication">
   <img src="https://img.shields.io/badge/Problem Solving-FF7043?style=for-the-badge" alt="Problem Solving">
   <img src="https://img.shields.io/badge/Collaboration-8BC34A?style=for-the-badge" alt="Collaboration">
-  <img src="https://img.shields.io/badge/Figma-FF7F50?style=for-the-badge" alt="Figma">
+  <img src="https://img.shields.io/badge/Figma-FF7F50?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 <!-- GitHub Stats -->
