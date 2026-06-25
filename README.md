@@ -1,103 +1,283 @@
-<!-- Header -->
-# Hi there! 👋 I'm Nidhi Dinesh ✨ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-💡 *“Turning ideas into impact with code, creativity, and collaboration.”*  
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=NidhiD26)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhidinesh/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/d_nidhi2605)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square)](https://nidhidinesh.netlify.app/)
-
-
-## 🚀 About Me  
-- 🌸 Creative **Tech Enthusiast** exploring Web Development & AI  
-- 🎤 Confident **Public Speaker** & **Content Creator**  
-- 💼 Experienced in **Team Management** & **Leadership**  
-- ✨ Skilled at blending **tech, design & communication**  
-- 🌍 Believer in **collaboration over competition**  
-
----
-
-## 🛠️ Technologies & Tools  
+# 👋 Hi, I'm Nidhi Dinesh
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Python-FF7F50?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Vercel-F05032?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-181717?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Marketing-FF7F50?style=for-the-badge" alt="Marketing">
-  <img src="https://img.shields.io/badge/Content Writing-FF6F61?style=for-the-badge" alt="Content Writing">
-  <img src="https://img.shields.io/badge/Public Speaking-FFAA1D?style=for-the-badge" alt="Public Speaking">
-  <img src="https://img.shields.io/badge/Team Management-00796B?style=for-the-badge" alt="Team Management">
-  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge" alt="Leadership">
-  <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge" alt="Communication">
-  <img src="https://img.shields.io/badge/Problem Solving-FF7043?style=for-the-badge" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Collaboration-8BC34A?style=for-the-badge" alt="Collaboration">
-  <img src="https://img.shields.io/badge/Figma-FF7F50?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Nidhi%20Dinesh&fontSize=55&fontAlignY=40&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Developer;Full-Stack+Engineer;AI%2FML+Enthusiast;Building+Scalable+Digital+Products;Open+Source+Contributor" />
+</p>
 
-
----
-
-## 📊 My GitHub in a Different Way  
-Instead of streaks, let’s show something **unique & aesthetic**:  
-
-<div align="center">
-
-![Nidhi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NidhiD26&theme=dracula)  
-
-</div>  
-
-✨ OR you can showcase a **dynamic skill chart / achievements** instead of streaks:  
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiD26&layout=compact&theme=radical&langs_count=6)  
-
-</div>  
-
-<div align="center">
-  
-[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NidhiD26&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.E-CSE-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bangalore-India-6D28D9?style=for-the-badge" />
+  <a href="https://nidhidinesh.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/nidhidinesh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge" />
+  </a>
+  <a href="mailto:dineshnidhi2605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Highlights Beyond Code  
+# About Me
 
-- 📝 **Content Writing** – Crafting ideas into words  
-- 🎨 **Design Thinking** – Making things look and feel better  
-- 🎤 **Public Speaking** – Inspiring through voice & presence  
-- 🤝 **Collaboration** – Building with people, not just for people  
-- 💡 **Problem Solving** – Finding clarity in chaos  
+Full-Stack Developer with experience building production-ready applications across healthcare, education, FMCG, and AI-driven domains.
+
+I specialize in:
+
+* Scalable Full-Stack Development
+* AI & Machine Learning Applications
+* Product Engineering
+* REST API Development
+* Modern React Ecosystem
+* Database-Driven Systems
+
+### Open To
+
+* Software Development Engineer Roles
+* Full-Stack Developer Opportunities
+* AI/ML Engineering Roles
+* Product Engineering Teams
+* Open Source Collaborations
 
 ---
 
-## 🤝 Let’s Collaborate!  
+# Tech Stack
 
-<a href="mailto:dineshnidhi2605@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://nidhidinesh.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/nidhidinesh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/d_nidhi2605"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+## Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,postgresql" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma" />
+</p>
 
 ---
 
-## 💬 Fun Fact  
-*"I balance code with creativity – from debugging errors to designing experiences."*  
+# AI / ML Expertise
+
+| Domain           | Proficiency  | Details                            |
+| ---------------- | ------------ | ---------------------------------- |
+| Machine Learning | Advanced     | Classification, Prediction Models  |
+| Neural Networks  | Advanced     | MLP, ANN                           |
+| Data Analysis    | Intermediate | Data Cleaning, Feature Engineering |
+| TensorFlow.js    | Advanced     | Browser-Based AI                   |
+| Healthcare AI    | Advanced     | Cancer Prediction, PCOS Detection  |
+| Model Deployment | Advanced     | FastAPI Based APIs                 |
 
 ---
 
-## 🌸 Thank You for Visiting!  
+# Featured Projects
 
-💖 Thank you for stopping by my profile!  
-Let’s create something meaningful together. 🚀  
+<details>
+<summary><b>Analysis & Prediction of Breast Cancer Using MLP</b></summary>
+
+### Enterprise AI Healthcare Solution
+
+| Metric      | Details                                     |
+| ----------- | ------------------------------------------- |
+| Stack       | Python, FastAPI, ANN, HTML, CSS, JavaScript |
+| Scale       | Healthcare Prediction Platform              |
+| Performance | Real-time Prediction APIs                   |
+| Security    | Backend Validation & Controlled Access      |
+| Impact      | Explainable Breast Cancer Analysis          |
+| Repository  | Add Repository Link                         |
+
+Built a complete AI-powered healthcare dashboard leveraging Artificial Neural Networks for breast cancer prediction and analysis. Developed scalable REST APIs and an interactive visualization layer to improve accessibility and explainability.
+
+</details>
+
+<details>
+<summary><b>PMSify</b></summary>
+
+### Privacy-First Women's Health Platform
+
+| Metric      | Details                                               |
+| ----------- | ----------------------------------------------------- |
+| Stack       | React 18, Vite, Tailwind CSS, TensorFlow.js, Dexie.js |
+| Scale       | Offline PWA                                           |
+| Performance | Works on 2G Networks                                  |
+| Security    | Zero External Data Sharing                            |
+| Impact      | PCOS Screening & Cycle Prediction                     |
+| Repository  | Add Repository Link                                   |
+
+Built an offline-capable Progressive Web App focused on women's health with multilingual support and on-device machine learning for privacy-preserving health insights.
+
+</details>
+
+<details>
+<summary><b>HealPulse</b></summary>
+
+### Cancer Care & Wellness Platform
+
+| Metric      | Details                                      |
+| ----------- | -------------------------------------------- |
+| Stack       | Next.js, TypeScript, Tailwind CSS, Shadcn UI |
+| Scale       | Patient Support Ecosystem                    |
+| Performance | Responsive Cross-Platform Experience         |
+| Security    | Secure Patient Data Architecture             |
+| Impact      | Improved Accessibility for Patients          |
+| Repository  | Add Repository Link                          |
+
+Designed and developed a comprehensive wellness platform helping cancer patients and caregivers through medication tracking, nutrition guidance, peer support, and wellness monitoring.
+
+</details>
+
+---
+
+# Experience
+
+## Junior Web Developer — Kreekarvat Technologies
+
+**Nov 2024 – Nov 2025**
+
+Worked on multiple client-facing applications spanning healthcare, education, FMCG, and event management domains.
+
+### Responsibilities
+
+* Developed frontend and backend modules
+* Built scalable database-driven systems
+* Integrated REST APIs
+* Collaborated in Agile workflows
+* Delivered projects within deadlines
+
+### Skills
+
+`Next.js` `React.js` `MongoDB` `PostgreSQL` `TypeScript`
+
+---
+
+## Frontend Development Intern — CodTech IT Solutions
+
+**Jan 2026 – Mar 2026**
+
+Completed frontend development internship involving practical implementation of modern web technologies and real-world assignments.
+
+### Skills
+
+`HTML` `CSS` `JavaScript` `React`
+
+---
+
+# Achievements
+
+| Recognition                  | Details                                            |
+| ---------------------------- | -------------------------------------------------- |
+| Research Publication         | Published Breast Cancer Prediction Research (2026) |
+| Technical Competition Winner | Won College-Level Development Challenge            |
+| Workshop Speaker             | Conducted Git & GitHub Workshops                   |
+| Technical Coordinator        | Organized Coding & Development Events              |
+| Core Committee Member        | DevNation Technical Community                      |
+
+---
+
+# Coding Profiles
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/></a>
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NidhiD26&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NidhiD26&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiD26&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NidhiD26&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NidhiD26&theme=tokyo-night"/>
+</p>
+
+---
+
+# Contribution Snake
+
+```yaml
+name: Generate Snake
+
+uses: Platane/snk
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced System Design
+  - Java DSA
+  - Cloud Architecture
+
+Building:
+  - AI Powered Applications
+  - Scalable Full Stack Products
+
+Exploring:
+  - Generative AI
+  - LLM Applications
+  - Open Source
+
+Open To:
+  - Software Engineer Roles
+  - Full Stack Opportunities
+  - AI Engineering Positions
+```
+
+---
+
+# Connect
+
+* Email: [dineshnidhi2605@gmail.com](mailto:dineshnidhi2605@gmail.com)
+* LinkedIn: https://linkedin.com/in/nidhidinesh
+* GitHub: https://github.com/NidhiD26
+* Portfolio: https://nidhidinesh.vercel.app
+
+---
+
+> Building scalable software, solving real-world problems, and continuously learning through engineering.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
+</p>
