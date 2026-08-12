@@ -145,7 +145,6 @@ Designed and developed a comprehensive wellness platform helping cancer patients
 </details>
 
 ---
-
 # Experience
 
 ## Junior Web Developer — Kreekarvat Technologies
@@ -192,53 +191,11 @@ Completed frontend development internship involving practical implementation of 
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/></a>
-</p>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NidhiD26&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NidhiD26&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiD26&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NidhiD26&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NidhiD26&theme=tokyo-night"/>
 </p>
-
----
-
-# Contribution Snake
-
-```yaml
-name: Generate Snake
-
-uses: Platane/snk
-```
 
 ---
 
